@@ -1,11 +1,11 @@
-tap 'caskroom/cask'
-
+# Use this file to download Apps for mac.
+# comment out any unnecessary apps.
+# $ cd this dir
+# $ brew bundle
 brew 'git'
 
+# cask 'visual-studio-code'
 cask 'webstorm'
-cask 'docker'
-cask 'postman'
-
 cask 'google-chrome'
 cask 'firefox'
 cask 'sketch'
