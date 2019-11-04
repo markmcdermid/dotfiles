@@ -14,6 +14,7 @@ cask 'spectacle'
 cask 'sublime-text'
 cask 'docker'
 cask 'postman'
+cask 'docker'
 
 mas 'Slack', id: 803453959
 mas 'ColorSnapper 2', id: 969418666
